@@ -18,3 +18,15 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+License Code.code-search
+RalicenseCreator.spec
+# ✅ Abaikan semua file di root
+/*
+
+# ✅ Tapi jangan abaikan folder license_api
+!license_api/
+!license_api/**
+
+# ✅ Tetap track file gitignore
+!.gitignore
