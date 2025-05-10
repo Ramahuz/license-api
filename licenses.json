@@ -1,0 +1,46 @@
+[
+    {
+        "username": "radit",
+        "license": "abc1234567890",
+        "version": "1.0"
+    },
+    {
+        "username": "radit",
+        "license": "ra1b57cdab1ee935",
+        "version": "1.0"
+    },
+    {
+        "username": "Radit",
+        "license": "ra5cac59a54a6b79",
+        "version": "1.0"
+    },
+    {
+        "username": "Radit",
+        "license": "raA5CAC59A54A6B7",
+        "version": "1.0"
+    },
+    {
+        "username": "radits",
+        "license": "raAF82D747E51FD4",
+        "version": "1.0",
+        "expired": "2024-05-01"
+    },
+    {
+        "username": "ra",
+        "license": "raA46A3270C9BC99",
+        "version": "1.0",
+        "expired": "2024-05-02"
+    },
+    {
+        "username": "ra",
+        "license": "raA46A3270C9BC99",
+        "version": "1.0",
+        "expired": "2024-05-03"
+    },
+    {
+        "username": "ras",
+        "license": "raA90A89814EFBCA",
+        "version": "1.0",
+        "expired": "2024-01-01"
+    }
+]
