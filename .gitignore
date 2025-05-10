@@ -1,0 +1,20 @@
+# Lisensi dan aktivasi (file sensitif)
+user.lic
+activated.txt
+
+# File backup atau pribadi
+radit.txt
+*.zip
+*.rar
+
+# Build output
+/dist/
+/build/
+__pycache__/
+*.spec
+
+# Editor/OS-specific
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
